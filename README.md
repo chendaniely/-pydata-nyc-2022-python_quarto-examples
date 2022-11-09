@@ -1,1 +1,1 @@
-# -pydata-nyc-2022-python_quarto-examples
+# pydata-nyc-2022-python_quarto-examples
